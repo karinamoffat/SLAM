@@ -1,0 +1,5 @@
+time,label,mode,direction,duty,duration_s,ran_s,b_before_deg,b_after_deg,rot_deg,rate_dps,v_side_mps,W_eff_m,moved,note
+2026-11-09T09:17:04,breakaway nov9,breakaway,left,0.600,0.40,0.402,20.90,,,,,,n,
+2026-11-09T09:18:03,breakaway nov9,breakaway,left,0.700,0.40,0.401,21.20,,,,,,n,
+2026-11-09T09:18:17,breakaway nov9,breakaway,left,0.800,0.40,0.402,21.30,,,,,,n,
+2026-11-09T09:18:30,breakaway nov9,breakaway,left,0.900,0.40,0.402,21.40,,,,,,n,

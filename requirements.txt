@@ -1,0 +1,5 @@
+# offline pipeline (estimation, simulation, plots)
+numpy
+matplotlib
+opencv-python>=4.7   # cv2.aruco.ArucoDetector
+# on the car: ROS 2 Lyrical (rclpy, rosbag2_py, tf2_ros, topic_tools, camera_ros) and python3-lgpio, from apt

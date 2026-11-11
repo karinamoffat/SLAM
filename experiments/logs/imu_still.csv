@@ -1,0 +1,2 @@
+time,label,seconds,rate_hz,temp_c,bias_x,bias_y,bias_z,sigma_x,sigma_y,sigma_z,bias_z_first,bias_z_last,acc_x,acc_y,acc_z
+2026-11-09T20:58:41,first still,30.0,100.00,22.88,-1.4523,-0.8749,1.5090,0.0248,0.0280,0.0263,1.5097,1.5084,0.0741,0.0570,1.0841

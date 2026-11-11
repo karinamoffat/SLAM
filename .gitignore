@@ -1,0 +1,12 @@
+# recordings and replays (large; available on request)
+*.npz
+*.mcap
+*.db3
+bags/
+replay/
+# rendered video and generated markers
+*.mp4
+markers/
+# Python
+__pycache__/
+*.pyc
