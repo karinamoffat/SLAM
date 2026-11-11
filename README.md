@@ -2,7 +2,9 @@
 
 A small skid-steer robot car maps a room of ArUco markers with **landmark EKF-SLAM written from scratch in NumPy**, using a monocular camera and a gyro and **no wheel encoders**. Every model (camera, motion, noise) was measured on the car, and every result is scored against a tape-measured ground-truth map, so that both the error and the honesty of the uncertainty can be checked.
 
-<video src="https://github.com/karinamoffat/SLAM/raw/main/SLAM_demo.mp4" controls width="100%"></video>
+
+[![SLAM demo](demo_thumbnail.png)](https://github.com/karinamoffat/SLAM/blob/main/SLAM_demo.mp4)
+
 
 _Side by side comparison of the camera view, mounted on the Pi Car, and the mapping happening simultaneously_
 
