@@ -6,6 +6,7 @@ A small skid-steer robot car maps a room of ArUco markers with **landmark EKF-SL
 [![SLAM demo](demo_thumbnail.png)](https://youtu.be/nwYYCbKvelQ)
 
 **click the image for the full demo video**
+
 _Side by side comparison of the camera view, mounted on the Pi Car, and the mapping happening simultaneously_
 
 ## Results
